@@ -10,12 +10,12 @@ This is a simple example of a transparent login form created using HTML and CSS.
 
 ## Screenshots
 
-![Transparent Login Form](./assets/imgs/transparent_login_form_ss.png.png)
+![Transparent Login Form](https://github.com/zainumer855/HTML-CSS/blob/main/transparent_login_form/assets/imgs/transparent_login_form_ss.png)
 
 ## How to Use
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/zainumer855/transparent-login-form.git
+   git clone https://github.com/zainumer855/transparent_login_form.git
    ```
